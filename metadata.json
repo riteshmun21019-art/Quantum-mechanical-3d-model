@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Mechanical Model of the Atom",
+  "description": "Interactive scientific presentation and 3D laboratory exploring the Quantum Mechanical Model, atomic orbitals, wavefunctions, and electron configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
